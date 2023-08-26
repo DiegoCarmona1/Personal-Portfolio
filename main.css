@@ -2,12 +2,20 @@
 *Description: Primary Style sheet for Diego Carmona's portfolio
 *Author:      Diego Carmona
 ***********************************/
+
 body{
     background-color:aquamarine;    /* This is a lighter greenish hue*/
 }
+
 p{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; /* transitions all fonts within the document to times new roman*/
 }
+
 ul{
-    list-style-type: georgian;
+    list-style-type:square; /* Changes the circle points to squares*/
 }
+
+h1{
+    text-align :center;
+}
+
