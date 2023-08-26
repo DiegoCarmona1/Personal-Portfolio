@@ -2,3 +2,6 @@
 *Description: Primary Style sheet for Diego Carmona's portfolio
 *Author:      Diego Carmona
 ***********************************/
+body{
+    background-color:aquamarine;    /* This is a lighter greenish hue*/
+}
