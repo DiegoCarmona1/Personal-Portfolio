@@ -16,9 +16,17 @@ ul{
 }
 
 h1{
-    text-align :center;
+    text-align :center; /* center aligned the title name "Diego Carmona" */
 }
 
 h4{
-    text-align :center;
+    text-align :center; /* Center aligned the contact info */
+}
+
+h1{
+    background-color: rgb(116, 177, 192);
+}
+
+h4{
+    background-color: rgb(116, 177, 192);
 }
